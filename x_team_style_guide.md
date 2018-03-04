@@ -11,8 +11,8 @@
 * classes
 * exception types
 * fields
-* methods
-* parameters
+* methods camel case (yourMethodsShouldLookLikeThis)
+* parameters camel case, as short of name as possible while able to understand purpose
 * local variables
 * instance constants
 * class constants
