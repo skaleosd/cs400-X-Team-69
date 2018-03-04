@@ -30,8 +30,8 @@ We should have the in-line comment to explain the code we use.
 //Semester:         CS400 Spring 2018
 //PROJECT:          (project name)
 //FILES:            TestSearchTree.java
-//					             SearchTreeADT.java
-//					             BalancedSearchTree.java
+//SearchTreeADT.java
+//BalancedSearchTree.java
 //
 //USER:             (author name)
 //
