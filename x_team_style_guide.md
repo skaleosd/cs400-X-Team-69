@@ -34,7 +34,7 @@ We should have the in-line comment to explain the code we use.
   * switch statement
   * while loops
   while(boolean statement){
-  code
+     code
   }
   * for loops
   * enhanced for loops
