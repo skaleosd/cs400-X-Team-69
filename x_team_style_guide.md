@@ -25,9 +25,44 @@ We should have the in-line comment to explain the code we use.
 ### Examples
 
 * classes
+```
+/////////////////////////////////////////////////////////////////////////////
+//Semester:         CS400 Spring 2018
+//PROJECT:          (project name)
+//FILES:            TestSearchTree.java
+//					             SearchTreeADT.java
+//					             BalancedSearchTree.java
+//
+//USER:             (author name)
+//
+//Instructor:       Deb Deppeler (deppeler@cs.wisc.edu)
+//Bugs:             (known bugs)
+//Info:			          (additional information)
+//Due Date:		       (due date)
+//
+////////////////////////////////////////////////////////////////////////////
+```
 * fields
+```
+@param group  group number................
+```
 * constructors
+```
+/**
+* Constructor usage........
+* @param group  group number...........
+*/
+```
 * methods
+```
+/**
+ * method usage.............. 
+ * ..........
+ *
+ * @param group  group number...........
+ *
+ */
+```
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
   ```
