@@ -4,7 +4,7 @@
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+Clear but short, informative, try to summarize the usage
 
 ### Examples
 * interfaces
