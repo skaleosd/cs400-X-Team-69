@@ -4,24 +4,22 @@
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+Clear but short, informative, try to summarize the usage
 
 ### Examples
-* interfaces
-* classes
+* interfaces (should be capitalized like classes; Ex: interface Storing)
+* classes (should be in CamelCase; Ex: class Raster)
 * exception types
 * fields
 * methods camel case (yourMethodsShouldLookLikeThis)
 * parameters camel case, as short of name as possible while able to understand purpose
-* local variables 
+* local variables
 * instance constants
 * class constants
 
 ## Commenting style for public and private members of a class or interface:
 
 <brief statement of your team's commenting style>
-comment for every method and class, describing the objective for the method annd class. Also describe the return value for the method.
-We should have the in-line comment to explain the code we use.
 
 ### Examples
 
