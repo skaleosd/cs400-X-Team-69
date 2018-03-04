@@ -20,6 +20,7 @@ and missed deadlines.
 
 3. How will we communicate difficulties with a task assigned to us
 
+ Put comments on the projects to let them know what the issues are and email others promptly.
 
 4. How we will back up each other to ensure that deadlines are not missed
 
