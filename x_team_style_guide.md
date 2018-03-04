@@ -31,6 +31,11 @@ We should have the in-line comment to explain the code we use.
 * methods
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
+  ```
+      if(x = 69){
+          int ourGroup = 69;
+      }
+  ```
   * switch statement
   * while loops
   ```
