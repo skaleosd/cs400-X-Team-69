@@ -44,4 +44,9 @@ We should have the in-line comment to explain the code we use.
       }
   ```
   * for loops
+  ```
+      for (int i = 0; i < 100; i++){
+          code
+      }
+  ```
   * enhanced for loops
