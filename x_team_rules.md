@@ -8,19 +8,18 @@ This document helps individual members understand the team's expectations,
 and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
-## How we will assign (and reassign) tasks
+1. How we will assign (and reassign) tasks
 
 
 
-## How will we will track progress (and follow-up) on completion of tasks
+2. How will we will track progress (and follow-up) on completion of tasks
 
 
 
-## How will will communicate difficulties with a task assigned to us
+3. How will will communicate difficulties with a task assigned to us
 
 
-
-## How we will back up each other to ensure that deadlines are not missed
+4. How we will back up each other to ensure that deadlines are not missed
 
 
 
