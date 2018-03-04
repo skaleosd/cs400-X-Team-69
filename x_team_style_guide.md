@@ -33,10 +33,10 @@ We should have the in-line comment to explain the code we use.
   * if statements
   * switch statement
   * while loops
-  
+  ```
       while(boolean statement){
           code
       }
-  
+  ```
   * for loops
   * enhanced for loops
