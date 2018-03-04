@@ -19,7 +19,6 @@
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
 comment for every method and class, describing the objective for the method annd class. Also describe the return value for the method.
 We should have the in-line comment to explain the code we use.
 
@@ -37,6 +36,16 @@ We should have the in-line comment to explain the code we use.
       }
   ```
   * switch statement
+  ```
+      switch (choice) {
+                case 1:  code
+                         break;
+                case 2:  code
+                         break;
+                case 3:  code
+                         break;
+      }
+  ```
   * while loops
   ```
       while(boolean statement){
@@ -50,3 +59,8 @@ We should have the in-line comment to explain the code we use.
       }
   ```
   * enhanced for loops
+  ```
+      for (String group : array) {
+        System.out.println("Group: " + group);
+      }
+  ```
