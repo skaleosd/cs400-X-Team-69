@@ -18,12 +18,12 @@ and missed deadlines.
 
   Uploading code to github with comments, also send comments to everyone via email.
 
-3. How will will communicate difficulties with a task assigned to us
+3. How will we communicate difficulties with a task assigned to us
 
 
 4. How we will back up each other to ensure that deadlines are not missed
 
-
+Build a group on facebook and start the work as soon as possible.
 
 
 
