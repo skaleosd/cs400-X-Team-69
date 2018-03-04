@@ -14,7 +14,7 @@ and missed deadlines.
 
 2. How will we will track progress (and follow-up) on completion of tasks
 
-
+Uploading code to github with comments, also send comments to everyone via email.
 
 3. How will will communicate difficulties with a task assigned to us
 
