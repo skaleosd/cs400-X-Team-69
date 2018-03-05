@@ -20,11 +20,11 @@ and missed deadlines.
 
 3. How will we communicate difficulties with a task assigned to us
 
- Put comments on the projects to let them know what the issues are and email others promptly.
-
+We will text or email each other about the difficulties and in case they don't check their email, we will put comments on the projects to let them know what the issues are.
+ 
 4. How we will back up each other to ensure that deadlines are not missed
 
-Build a group on facebook and start the work as soon as possible.
+Build a group on facebook and start the work as soon as possible to give us enough time to successfully complete the assignments.
 
 
 
