@@ -7,7 +7,7 @@
        * GitHub username 2: rshih2
        * GitHub username 3: shirleyshao
        * GitHub username 4: NagSinde36
-       * GitHub username 5:
+       * GitHub username 5: Escott6
        
    * When did you complete this exercise? 
    March 4, 2018
