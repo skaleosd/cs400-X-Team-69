@@ -4,19 +4,16 @@
 2. Answer these questions
    * What are the GitHub usernames of your team members?
        * GitHub username 1: skaleosd
-       
        * GitHub username 2: rshih2
-       
-       * GitHub username 3: shirleyshao
-       
-       * GitHub username 4: NagSinde36
-       
+       * GitHub username 3: shirleyshao
+       * GitHub username 4: NagSinde36
        * GitHub username 5: Escott6
        
    * When did you complete this exercise? 
    March 4 & 5, 2018
    * How long did it take your team to complete this exercise? 
    3 hours
+   
 ## Table of Contents
 
 1. TODO.md - contains instructions for what to do for this assignment
